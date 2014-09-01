@@ -1,0 +1,14 @@
+# Site settings
+title: BITD
+email: alienxp03@gmail.com
+description: "BITD class in UTeM, graduated in year 2014"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Build settings
+markdown: kramdown
+permalink: pretty
