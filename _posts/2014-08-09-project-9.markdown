@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 9
+date: 2014-09-05
+img: hamiza.png
+fb: https://www.facebook.com/100000666356252
+alt: Hamiza
+tagline: Keep Calm and Love BITD
+
+---

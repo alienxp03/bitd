@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 8
+date: 2014-09-05
+img: sam.png
+fb: https://www.facebook.com/100000745840292
+alt: Sam
+tagline: Sekeliling ku lautan luas. Penat berenang aku lemas. Ketika hampir tenggelam kalian datang hulurkan tangan
+
+---

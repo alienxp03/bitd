@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 7
+date: 2014-09-05
+img: syazniey.png
+fb: https://www.facebook.com/100000389134457
+alt: Syazniey
+tagline: Alhamdulillah. Yeaayy! Boleh grad sesame tahun ni! =)
+
+---

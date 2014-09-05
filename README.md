@@ -1,7 +1,7 @@
 BITD 2010/2011 Yearbook
 =========================
 
-[Check the website ](http://bitd.herokuapp.com/)
+<a href="http://bitd.herokuapp.com/" target="_blank">Checkout the website!</a>
 
 ## Details
  - Build using Jekyll

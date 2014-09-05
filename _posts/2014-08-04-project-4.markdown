@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 4
+date: 2014-09-05
+img: sofia.png
+fb: https://www.facebook.com/1815805811
+alt: Sofia
+tagline: 1 thing 2 say 3 words 4 you I LOVE U, BITDians :)
+
+---
