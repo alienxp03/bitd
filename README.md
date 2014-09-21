@@ -5,4 +5,4 @@ BITD 2010/2011 Yearbook
 
 ## Details
  - Build using Jekyll
- - Thanks for the theme [here](https://jeromelachaud.github.io/freelancer-theme)
+ - Thanks for the [theme](https://jeromelachaud.github.io/freelancer-theme)
