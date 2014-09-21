@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 17
+date: 2014-09-05
+img: najla.png
+fb: https://www.facebook.com/782524209
+alt: Najla
+tagline: You guys awesome! Love BITD. BITD havoc!
+
+---

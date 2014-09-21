@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 18
+date: 2014-09-05
+img: bayu.png
+fb: https://www.facebook.com/1777241530
+alt: Bayu
+tagline: We do not remember days but we remember the moments... 
+
+---

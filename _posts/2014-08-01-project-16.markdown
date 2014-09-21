@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 16
+date: 2014-09-05
+img: ain.png
+fb: https://www.facebook.com/100000301436862
+alt: Ain
+tagline: Pengalaman bukan untuk dicipta tapi harus dilalui
+
+---
